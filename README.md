@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @otie16
+- 🙏 I prioritize God First
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on interesting projects
