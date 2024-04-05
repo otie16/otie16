@@ -1,3 +1,26 @@
+
+
+I'm Otobong Godwin, a software engineer who graduated from UNIBEN.
+💻 These are Courses I have studied during my degree include:
+
+💎 Fundamentals of Programming
+🕳️ OOP
+⏳ Linear Algebra
+📁 Databases
+💡 Data Structures and Algorithms
+⏱️ Design and Analysis of Algorithms
+📬 Computer Networks
+📈 Software Requirements Engineering
+🧸 Computer Architecture and Organization
+🧵 Operating Systems
+🖥️ Web Engineering
+🔎 Software Design and Architecture
+📌 Digital Logic Design
+🧮 Calculus
+📖 Discrete Mathematics
+
+
+
 - 👋 Hi, I’m @otie16
 - 🙏 I prioritize God First
 - 👀 I’m interested in Coding
