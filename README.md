@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Otobong Godwin</h1>
-<h3 align="center">A passionate DevOps engineer from Nigeria</h3>
+<h3 align="center">A passionate DevOps engineer and Software engineer from Nigeria</h3>
 
 <img align="left" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Dockerizing a PHP app and deploying it to cloud AWS**
 
-- 🌱 I’m currently learning **Docker, Jenkins**
+- 🌱 I’m currently learning **Docker, Jenkins, Django**
 
-- 👯 I’m looking to collaborate on **DevOps Projects**
+- 👯 I’m looking to collaborate on **DevOps Projects, Frontend Projects**
 
-- 🤝 I’m looking for help with **DevOps internships**
+- 🤝 I’m looking for help with **DevOps internships, Frontend Internships**
 
 - 📝 I regularly write articles on [https://medium.com/@otobongedoho18/automating-user-creation-with-bash-scripting-on-linux-systems-d98793e458a1](https://medium.com/@otobongedoho18/automating-user-creation-with-bash-scripting-on-linux-systems-d98793e458a1)
 
